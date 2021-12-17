@@ -1,7 +1,7 @@
 # course
 This is repository counting all useful tools and scripts for fikrado hacker course at telegram @Somalihacking 
 # lesson one 
- <img width="250px" src="https://raw.githubusercontent.com/fikrado-orgnasation/course/main/Img/L1.png?token=AQMY5YIK3VPVQ3KLWWQXM7LBXS64M" >
+ <img width="250px" src="https://github.com/fikrado-orgnasation/course/blob/main/Img/L1.png" >
 
  ###  waxaad ku baranaysa qaybtan sida terminalka loo isticmalo iyo basic kali linux
  -----
