@@ -9,14 +9,28 @@ This is repository counting all useful tools and scripts for fikrado hacker cour
  ## files
  <img width="110px" src="https://raw.githubusercontent.com/fikrado-orgnasation/course/main/Img/1.1.jpg?token=AQMY5YN6SEV4T7ZMHZG5SULBXS7UG">
  
+ amarada files ga
+ ```
+ 
+ ```
 
 
 ## installtion and premistion
 <img width="110px" src="https://raw.githubusercontent.com/fikrado-orgnasation/course/main/Img/1.2.jpg?token=AQMY5YL6TKTBKTN5PBC3CCTBXS7US">
 
+amarada installtion and premistion ga
+ ```
+ 
+ ```
+ 
 ## networking 
 <img width="110px" src="https://raw.githubusercontent.com/fikrado-orgnasation/course/main/Img/1.3.jpg?token=AQMY5YLXWUTD2AS6PIF5ADDBXS7UY">
 
+amarada networking  ga
+ ```
+ 
+ ```
+ 
 # lesson two 
  <img width="250px" src="https://raw.githubusercontent.com/fikrado-orgnasation/course/main/Img/L2.jpg?token=AQMY5YMBO63URZE27ZEXB2TBXS7T4">
 
