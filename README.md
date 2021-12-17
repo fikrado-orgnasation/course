@@ -7,7 +7,7 @@ This is repository counting all useful tools and scripts for fikrado hacker cour
  -----
 
  ## files
- <img width="110px" src="https://raw.githubusercontent.com/fikrado-orgnasation/course/main/Img/1.1.jpg?token=AQMY5YN6SEV4T7ZMHZG5SULBXS7UG">
+ <img width="110px" src="https://github.com/fikrado-orgnasation/course/blob/main/Img/1.1.jpg">
  
  amarada files ga
  ```
