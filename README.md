@@ -1,7 +1,7 @@
 # course
 This is repository counting all useful tools and scripts for fikrado hacker course at telegram @Somalihacking 
 # lesson one 
- <img src="/img/L1.png">
+ <img src="https://github.com/fikrado-orgnasation/course/tree/main/Img/L1.png">
 
 # lesson two 
  <img src="L2.png">
